@@ -1,0 +1,5 @@
+{
+  "name": "VanHub",
+  "description": "A lightweight ONDC Vendor Coordination and Readiness Platform for streamlining order management and rider coordination.",
+  "requestFramePermissions": []
+}
